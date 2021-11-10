@@ -32,6 +32,20 @@ header h1{
 .box{
     margin: 15px;
     width: 120px;
-    background-color: tomato;
     height: 120px;
+    line-height: 120px;
+    text-align: center;
+    background-color: rgb(19,137,178);
+}
+
+.buzz{
+    background-color:rgb(11,214,161);
+}
+
+.fizz{
+    background-color: rgb(255,209,102);
+}
+
+.fizzbuzz{
+    background-color: rgb(240,70,111);
 }
